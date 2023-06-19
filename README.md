@@ -12,6 +12,7 @@ I am a student from a university in Yogyakarta. And I have aspirations to become
 ![REACT NATIVE Badge](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MYSQL Badge](	https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ### My Hobby
-<a href=" https://steamcommunity.com/id/relaxinaja/">
-<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
+<a href="https://steamcommunity.com/id/relaxinaja/">
+   <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"
+    alt="Steam Badge">
 </a>
