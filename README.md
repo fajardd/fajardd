@@ -6,9 +6,3 @@ I am a student from a university in Yogyakarta. And I have aspirations to become
 ![EXPRESS Badge](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fajardd&layout=compact)
-
-### My Hobby
-<a href="https://steamcommunity.com/id/relaxinaja/">
-   <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"
-    alt="Steam Badge">
-</a>
